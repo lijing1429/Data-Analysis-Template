@@ -1,7 +1,7 @@
 # Data-Analyst-related
-images of some amazing template
+Images of some amazing template
 
-## most used inspirasion website
+## Most used inspirasion website
 - [Information is beautiful](https://www.informationisbeautifulawards.com/showcase?page=1&type=awards)
 - [Free piktochart](https://piktochart.com/templates/)
 - [Charticulator](https://charticulator.com/gallery/index.html)
